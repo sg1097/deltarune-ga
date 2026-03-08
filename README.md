@@ -6,6 +6,6 @@ Have a copy of Deltarune. Having chapters 3 and 4 is preferable so some lesser u
 Download the lang folder from this page   
 Install Deltatranslate from https://github.com/Lazy-Desman/DeltranslatePatch/releases   
 This extracts all the game data that needs to be translated from the data.win files   
-Copy the contents of my lang folder to the one in your game folder   
+Copy the contents of my lang folder to the one in your game folder and replace all  
 
 
