@@ -564,7 +564,7 @@ if (EVENT == 57)
         for (i = 0; i <= 1; i += 1)
         {
             NAME[0][i] = string(1 + i);
-            NAMEX[0][i] = 50;
+            NAMEX[0][i] = 50; /* I changed this bit */
             NAMEY[0][i] = 100 + (i * 16);
             YMAX += 1;
         }
