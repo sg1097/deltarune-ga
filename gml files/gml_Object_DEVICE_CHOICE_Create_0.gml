@@ -22,8 +22,8 @@ if (TYPE == 0)
 {
     NAME[0][0] = scr_84_get_lang_string("DEVICE_CHOICE_slash_Create_0_gml_22_0");
     NAME[1][0] = scr_84_get_lang_string("DEVICE_CHOICE_slash_Create_0_gml_23_0");
-    NAMEX[0][0] = 90;
-    NAMEX[1][0] = 170;
+    NAMEX[0][0] = 90; /* I changed this bit */
+    NAMEX[1][0] = 170; /* And this bit */
     NAMEY[0][0] = 180;
     NAMEY[1][0] = 180;
     XMAX = 1;
