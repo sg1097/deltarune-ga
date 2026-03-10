@@ -7,7 +7,7 @@ gml files contains the code files that I edited
 You can ignore Ch1 data it's only there to make installing easier  
 
 # How to Install
-Have a copy of Deltarune. Having chapters 3 and 4 is preferable so some lesser used fonts support accents but the demo should still work just fine  
+Have a copy of Deltarune. Having chapters 3 and 4 is preferable so some lesser used fonts support accents/fadas but the demo version should still work just fine  
 Download the Ch1 data and lang folders from this page  
 Install Deltranslate from https://github.com/Lazy-Desman/DeltranslatePatch/releases  
 This extracts all the game data that needs to be translated from the data.win files  
