@@ -1,10 +1,6 @@
 # Irish Translation for Deltarune
 A work in progress Irish translation for Deltarune Ch1. I just made this for fun and to practice my Irish a bit so the translations are quite poor.  
-
-# Note for ISE
-lang folder contains all strings that I translated and sprites that I customised. You can ignore the fonts folder  
-gml files contains the code files that I edited  
-You can ignore Ch1 data it's only there to make installing easier  
+Gameplay demo - https://youtu.be/JJAF0SIydOs?si=CSjEysmQ2Rr41tMM
 
 # How to Install
 Have a copy of Deltarune. Having chapters 3 and 4 is preferable so some lesser used fonts support accents/fadas but the demo version should still work just fine  
